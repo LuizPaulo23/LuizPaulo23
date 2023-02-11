@@ -1,7 +1,7 @@
 ### Hello, I'm Luiz Paulo
 
 - 🔭 Data Scientist Intern at 4intelligence
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & Shiny 
 - 💬 luizpauloueg@gmail.com
 - 📫 https://luizpaulotavaresgonalves.medium.com/
 
