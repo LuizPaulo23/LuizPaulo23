@@ -5,7 +5,7 @@
 - 💬 luizpauloueg@gmail.com
 - 📫 https://luizpaulotavaresgonalves.medium.com/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPaulo23&layout=compact&show_icons=true&theme=transparent)](https://github.com/LuizPaulo23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPaulo23&langs_count=8&theme=transparent)](https://github.com/LuizPaulo23/github-readme-stats)
 
 ## Principais tecnologias utilizadas 
 
