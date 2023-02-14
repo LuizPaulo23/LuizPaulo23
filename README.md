@@ -5,6 +5,9 @@
 - 💬 luizpauloueg@gmail.com
 - 📫 https://luizpaulotavaresgonalves.medium.com/
 
+%>% Meu Github primário vinculado a 4intelligence https://github.com/LuizPaulo023 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPaulo23&langs_count=8&theme=transparent)](https://github.com/LuizPaulo23/github-readme-stats)
 
 ## Principais tecnologias utilizadas 
