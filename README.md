@@ -1,4 +1,4 @@
-### Hello, I'm Luiz Paulo
+### Hello, I'm Luiz Paulo ![Profile views](https://gpvc.arturio.dev/LuizPaulo23)  
 
 - 🔭 Data Scientist Intern at 4intelligence
 - 🌱 I’m currently learning Java & Shiny 
@@ -7,8 +7,11 @@
 
 %>% Meu Github primário vinculado a 4intelligence https://github.com/LuizPaulo023 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPaulo23&langs_count=8&theme=transparent)](https://github.com/LuizPaulo23/github-readme-stats)
+<div>
+<a href="https://github.com/LuizPaulo23">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPaulo23&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizPaulo23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Principais tecnologias utilizadas 
 
@@ -34,3 +37,10 @@
   <a href="https://instagram.com/luiz_paulo.023" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizpauloueg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-paulo-tavares-gon%C3%A7alves-611849174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+    
+
+
+  
+  
+  
