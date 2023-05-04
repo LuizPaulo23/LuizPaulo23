@@ -1,8 +1,7 @@
 ### Hello, I'm Luiz Paulo ![Profile views](https://gpvc.arturio.dev/LuizPaulo23)  
 
 - 🔭 Data Scientist Intern at 4intelligence
-- 🌱 I’m currently learning Java & Shiny 
-- 💬 luizpauloueg@gmail.com
+- 🌱 I’m currently learning Shiny and AutoML 
 - 📫 https://luizpaulotavaresgonalves.medium.com/
 
 %>% Meu Github primário vinculado a 4intelligence https://github.com/LuizPaulo023 
