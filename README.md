@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Shiny, AutoML e Ensemble Learning 
 - 📫 https://luizpaulotavaresgonalves.medium.com/
 
-%>% Meu Github primário vinculado a 4intelligence https://github.com/LuizPaulo023 
+Meu Github primário vinculado a 4intelligence https://github.com/LuizPaulo023 
 
 <div>
 <a href="https://github.com/LuizPaulo23">
