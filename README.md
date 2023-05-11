@@ -1,7 +1,7 @@
 ### Hello, I'm Luiz Paulo ![Profile views](https://gpvc.arturio.dev/LuizPaulo23)  
 
 - 🔭 Data Scientist Intern at 4intelligence
-- 🌱 I’m currently learning Shiny, Java, AutoML, Ensemble Learning and Web Scraping.  
+- 🌱 I’m currently learning Shiny, AutoML, Ensemble Learning and Web Scraping.  
 
 <div>
 <a href="https://github.com/LuizPaulo23">
