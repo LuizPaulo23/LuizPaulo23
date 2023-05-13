@@ -3,8 +3,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-pg/"/>
 </a>
 
-
-
 - 🔭 Data Scientist Intern at 4intelligence
 - 🌱 I’m currently learning Shiny, AutoML, Ensemble Learning and Web Scraping.  
 
@@ -14,11 +12,11 @@
 <img height="180em" src="https://streak-stats.demolab.com/?user=LuizPaulo23&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
- # Tools: 
+# Main tools used:
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,r,cpp,java,redis,sqlite,postman,latex,linux" />
+    <img src="https://skillicons.dev/icons?i=github,r,py,java,redis,sqlite,postman,latex,linux" />
   </a>
 </p>
 
