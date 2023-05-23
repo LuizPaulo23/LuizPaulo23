@@ -4,7 +4,7 @@
 </a>
 
 - 🔭 Data Scientist Intern at 4intelligence
-- 🌱 I’m currently learning Shiny, AutoML, Ensemble Learning and Web Scraping.  
+- 🌱 I’m currently learning C++, Shiny and AutoML. 
 
 <div>
 <a href="https://github.com/LuizPaulo23">
@@ -12,11 +12,11 @@
 <img height="180em" src="https://streak-stats.demolab.com/?user=LuizPaulo23&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
-# Main tools used:
+# Tools/technologies
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,py,java,redis,sqlite,postman,latex,linux" />
+    <img src="https://skillicons.dev/icons?i=linux,r,cpp,java,py,redis,sqlite,postman,latex" />
   </a>
 </p>
 
