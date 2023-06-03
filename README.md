@@ -1,5 +1,4 @@
 ### Hello, I'm Luiz Paulo !
-![Profile views](https://gpvc.arturio.dev/LuizPaulo23) <a href="https://www.linkedin.com/in/luiz-paulo-tavares-gon%C3%A7alves-611849174/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melissa-pg/"/>
 </a>
 
