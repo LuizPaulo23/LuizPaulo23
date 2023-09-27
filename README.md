@@ -1,5 +1,5 @@
 ### Hello, I'm Luiz Paulo !
-- 🔭 Data Scientist Intern at 4intelligence
+- 🔭 BSc. in Economics | Data Scientist Intern at 4intelligence
 - 🌱 I’m currently learning C++, Shiny and AutoML. 
 
 <div>
