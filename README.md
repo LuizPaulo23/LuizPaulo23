@@ -5,11 +5,8 @@
 </div>
 
 
-- 🔭 BSc. in Economics | Data Scientist Intern at 4intelligence
-- 🌱 I’m currently learning C++, Shiny and AutoML. 
-
-
-
+- 🔭 BSc. in Economics | Data Scientist Jr. at 4intelligence
+- 🌱 I’m currently learning Python, C++ and Blockchain.  
 
 
 <div>
