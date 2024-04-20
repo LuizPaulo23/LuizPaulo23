@@ -19,7 +19,7 @@
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,r,cpp,redis,sqlite,postman,latex" />
+    <img src="https://skillicons.dev/icons?i=linux,r,py,cpp,redis,sqlite,postman,latex" />
   </a>
 </p>
 
