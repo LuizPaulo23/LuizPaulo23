@@ -6,7 +6,7 @@
 
 
 - 🔭 BSc. in Economics | Data Scientist Jr. at 4intelligence
-- 🌱 I’m currently learning Python, C++ and Blockchain.  
+- 🌱 I’m currently learning Python and Econometrics. 
 
 
 <div>
