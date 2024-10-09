@@ -6,7 +6,7 @@
 
 
 - 🔭 BSc. in Economics | Data Scientist Jr. at 4intelligence
-- 🌱 I’m currently learning Python, Time Series and Causal Inference
+- 🌱 I’m currently learning Python and Time Series
 
 
 <div>
