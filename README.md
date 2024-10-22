@@ -6,7 +6,7 @@
 
 
 - 🔭 BSc. in Economics | Data Scientist Jr. at 4intelligence
-- 🌱 I’m currently learning Python, Time Series and Probability. 
+- 🌱 I’m currently learning Python, Time Series, Conformal Prediction and KAN's. 
 
 
 <div>
