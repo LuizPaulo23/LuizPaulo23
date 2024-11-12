@@ -5,9 +5,8 @@
 </div>
 
 
-- 🔭 BSc. in Economics | Data Scientist Jr. at 4intelligence
+- 🔭 BSc. in Economics | Data Scientist Jr. at 4intelligence & Member of the IEEE Computational Intelligence Society Student Chapter UnB
 - 🌱 I’m currently learning Python and Time Series
-
 
 <div>
 <a href="https://github.com/LuizPaulo23">
