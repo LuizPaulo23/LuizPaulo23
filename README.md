@@ -5,8 +5,7 @@
 </div>
 
 
-- 🔭 BSc. in Economics | Data Scientist Jr. at 4intelligence
-- 🌱 I’m currently learning Python and Time Series
+- 🔭 MSc. in Economics | Data Scientist Jr. at 4intelligence
 
 <div>
 <a href="https://github.com/LuizPaulo23">
